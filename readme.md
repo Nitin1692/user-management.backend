@@ -18,8 +18,8 @@ This is the backend for the User Management. It is built with Node.js and Expres
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/backend-repo.git
-   cd backend-repo
+   git clone https://github.com/Nitin1692/user-management.backend
+   cd folder-name
    ```
 
 2. Install dependencies:
